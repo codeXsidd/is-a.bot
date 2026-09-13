@@ -1,0 +1,11 @@
+{
+  "description": "Studivexa - Study & Learning Platform",
+  "repo": "https://github.com/codeXsidd/studivexa",
+  "owner": {
+    "username": "codeXsidd",
+    "email": "siddhath291206@gmail.com"
+  },
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  }
+}
